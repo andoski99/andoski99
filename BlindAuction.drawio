@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T22:18:43.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" version="16.1.0" etag="yJ2W2IdjlacJXl7PNv7O" type="github"><diagram id="51RsejREWcCAqMqdmcKm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-29T22:41:10.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="GB5VbyKWRCDWBoREnEDp" version="16.1.0" type="github">
+  <diagram id="51RsejREWcCAqMqdmcKm" name="Page-1">
+    <mxGraphModel dx="1018" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-1" target="va1QGiU9ipJ4OWcK_Gxl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-1" value="Do you wish to enter a bid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-2" target="va1QGiU9ipJ4OWcK_Gxl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-2" value="Enter name and bid&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-4" target="va1QGiU9ipJ4OWcK_Gxl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-4" value="Store in a dictonary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-11" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-8" target="va1QGiU9ipJ4OWcK_Gxl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-8" target="va1QGiU9ipJ4OWcK_Gxl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-8" value="Is there another bidder?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="450" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-10" target="va1QGiU9ipJ4OWcK_Gxl-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="500" />
+              <mxPoint x="90" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-10" value="Clear the screen" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va1QGiU9ipJ4OWcK_Gxl-13" target="va1QGiU9ipJ4OWcK_Gxl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-13" value="Compare the dictionary and find the maximum bid" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va1QGiU9ipJ4OWcK_Gxl-15" value="print the name of the maximum bidder and their bid" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

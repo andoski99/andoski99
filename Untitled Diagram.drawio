@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T03:38:07.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="2-dlZnOhYFiuvIkOcm9o" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T03:50:08.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="I7uM7U_698JfTm9nsSQa" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1198" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="6ApTMov5V20SEGdIWfBn-11" value="You Lose" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ApTMov5V20SEGdIWfBn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-17" target="6ApTMov5V20SEGdIWfBn-20">
+        <mxCell id="6ApTMov5V20SEGdIWfBn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-17" target="6ApTMov5V20SEGdIWfBn-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-17" value="Reveal Dealer Second Card" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Is dealer Total &amp;gt; 21?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="495" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="625" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-22" target="6ApTMov5V20SEGdIWfBn-27">
           <mxGeometry relative="1" as="geometry" />
@@ -113,16 +113,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Is Dealer total &amp;gt; Player Total&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="655" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-25" value="You Win" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-27" target="6ApTMov5V20SEGdIWfBn-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-27" value="You Lose" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="665" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-30" target="6ApTMov5V20SEGdIWfBn-32">
           <mxGeometry relative="1" as="geometry" />
@@ -131,16 +131,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Is Dealer Total = Player Total&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="815" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="875" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-32" target="6ApTMov5V20SEGdIWfBn-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-32" value="Draw" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="825" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="885" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-34" value="You Win" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-46" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry">
@@ -180,6 +180,37 @@
         </mxCell>
         <mxCell id="6ApTMov5V20SEGdIWfBn-46" value="Play again?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="1200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ApTMov5V20SEGdIWfBn-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-56" target="6ApTMov5V20SEGdIWfBn-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="590" />
+              <mxPoint x="730" y="590" />
+              <mxPoint x="730" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ApTMov5V20SEGdIWfBn-60" value="HIT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="6ApTMov5V20SEGdIWfBn-59">
+          <mxGeometry x="-0.1792" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ApTMov5V20SEGdIWfBn-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ApTMov5V20SEGdIWfBn-56" target="6ApTMov5V20SEGdIWfBn-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="500" />
+              <mxPoint x="520" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ApTMov5V20SEGdIWfBn-62" value="PASS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="6ApTMov5V20SEGdIWfBn-61">
+          <mxGeometry x="0.0135" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ApTMov5V20SEGdIWfBn-56" value="Is dealer total &amp;lt; 12" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
